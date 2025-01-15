@@ -1,4 +1,4 @@
-##                                                                                  Hi there 👋, I'm Sagar Ulli
+                                                                              ## Hi there 👋, I'm Sagar Ulli
 
 ## Skills 
 - Java
