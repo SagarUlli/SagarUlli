@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sagar Ulli
+## <h1 align="center">Hi there 👋, I'm Sagar Ulli</h1>
 
 ## Skills 
 - Java
