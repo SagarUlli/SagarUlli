@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java.
 
-##Skills 
+## Skills 
 - Java
 - Spring Framework
 - Hibernate
