@@ -2,7 +2,7 @@
 
 ## Skills & Technologies
 
-## JAVA Development
+## Java Development
 - Java(Core & Advanced)
 - Spring Framework(Sprign IOC, Spring MVC, Spring Boot, & Spring JPA)
 - Hibernate/JPA
