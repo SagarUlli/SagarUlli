@@ -12,6 +12,6 @@
 - MySQL
 
 ## Tools & other Technologies
-- Git GitHub
+- Git, GitHub
 - PostMan(API Testing)
-- HTML/CSS
+- HTML / CSS
