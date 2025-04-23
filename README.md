@@ -4,7 +4,7 @@
 ## Skills & Technologies
 ## Java Development
 - Java(Core & Advanced)
-- Spring Framework(Sprign IOC, Spring MVC, Spring Boot, & Spring JPA)
+- Spring Framework(Sprign IOC, Spring MVC, Spring Boot, & Spring Data JPA)
 - Hibernate/JPA
 - REST API Design
 
