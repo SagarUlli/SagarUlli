@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi Friend 👋, I'm Sagar Ulli</h1>
-<center>![](https://komarev.com/ghpvc/?username=SagarUlli&color=blue)</center>
+<div align="center">![](https://komarev.com/ghpvc/?username=SagarUlli&color=blue)</div>
 ## About Me
 -------------------------------------------------------------------------
 ## Skills & Technologies
