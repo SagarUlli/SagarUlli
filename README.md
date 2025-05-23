@@ -4,15 +4,16 @@
 -------------------------------------------------------------------------
 ## Skills & Technologies
 ## Java Development
-- Java(Core & Advanced)
-- Spring Framework(Sprign IOC, Spring MVC, Spring Boot, & Spring Data JPA)
-- Hibernate/JPA
-- REST API Design
+- **Java**(Core & Advanced)
+- **Spring Framework**(Sprign IOC, Spring MVC, Spring Boot, & Spring Data JPA)
+- **Hibernate/JPA**
+- **REST API**
 
 ## Database
-- MySQL
+- **MySQL**
 
 ## Tools & other Technologies
-- Git, GitHub
-- PostMan(API Testing)
-- HTML / CSS
+- **Git, GitHub**
+- **PostMan**(API Testing)
+- **HTML / CSS**
+- **JavaScript**(Basics)
