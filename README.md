@@ -1,4 +1,4 @@
-## <h1 align="center">Hi Friend 👋, I'm Sagar Ulli</h1>
+## <h1 align="center">Hi There 👋, I'm Sagar Ulli</h1>
   ![](https://komarev.com/ghpvc/?username=SagarUlli&color=blue)
 ## About Me
 -------------------------------------------------------------------------
